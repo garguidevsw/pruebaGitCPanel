@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/garguiio/public_html/
+    - export DEPLOYPATH=/home/garguiio/repositories/pruebaGitCPanel/
     - /bin/cp -R * $DEPLOYPATH
